@@ -1,3 +1,6 @@
+### Hi, I'm Amelia!  
+
+
 🩺 Former healthcare professional turned data enthusiast  
 🎓 Earned my Data Analytics certificate from USF  
 🛠️ Learning SQL, Excel, and data visualization  
