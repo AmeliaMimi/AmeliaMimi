@@ -24,5 +24,3 @@
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/amelia-mimi-b0103b337/)
 
-📊 [View my Tableau projects on Tableau Public](https://public.tableau.com/app/profile/amelia.mimi/vizzes)
-
