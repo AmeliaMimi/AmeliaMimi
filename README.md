@@ -20,3 +20,7 @@
   <img src="https://img.shields.io/badge/Excel-Advanced%20Functions-informational?style=flat&logo=microsoft-excel&logoColor=white&color=2f855a" />
   <img src="https://img.shields.io/badge/Data%20Cleaning-&%20Preparation-informational?style=flat&color=0a9396" />
 </p>
+
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/amelia-mimi-b0103b337/)
+
